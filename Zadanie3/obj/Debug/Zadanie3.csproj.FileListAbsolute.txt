@@ -1,0 +1,16 @@
+D:\Zad3\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\Zad3\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+D:\Zad3\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+D:\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+D:\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.Cache
+D:\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+D:\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csprojResolveAssemblyReference.cache
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csprojResolveAssemblyReference.cache
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\studia\IntegrSys\_cw\Zad3\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.Cache
